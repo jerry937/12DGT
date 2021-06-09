@@ -1,10 +1,20 @@
 h1 {
-  color:green;
+  color:rgb(199, 108, 48);
   font-size: 100px;
+  background-color:rgb(153, 142, 134); 
+  text-align:center
 }
 
-h2 {
+
+
+
+all_cake h2 {
   color: yellow;
   font-size: 100px;
 
 }
+ul{
+  background-color:DodgerBlue; 
+  text-align:center;
+  font-size:30px;
+ }
